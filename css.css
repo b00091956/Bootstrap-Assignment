@@ -1,0 +1,159 @@
+@charset "UTF-8";
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:"Courier New", Courier, monospace;
+	background-color:dfe4cd;
+}
+h3{
+	color:black;
+	
+}
+.brand {
+	color:#E78530;
+}
+
+.jumbotron{
+	margin-bottom:10px;
+	
+	
+	
+}
+
+
+   /* Carousel base class */
+    .carousel {
+      margin-bottom: 60px;
+    }
+
+    .carousel .container {
+      position: relative;
+      z-index: 9;
+    }
+
+    .carousel-control {
+      height: 80px;
+      margin-top: 0;
+      font-size: 120px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+      background-color: transparent;
+      border: 0;
+      z-index: 10;
+    }
+
+    .carousel .item {
+      height: 500px;
+    }
+    .carousel img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      height: 500px;
+    }
+
+    .carousel-caption {
+      background-color: transparent;
+      position: static;
+      max-width: 550px;
+      padding: 0 20px;
+      margin-top: 200px;
+    }
+    .carousel-caption h1,
+    .carousel-caption .lead {
+      margin: 0;
+      line-height: 1.25;
+      color: #fff;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+    }
+    .carousel-caption .btn {
+      margin-top: 10px;
+    }
+
+
+.navbar navbar-inverse{
+		background-color:#06F;
+}
+.jumbotron{
+	
+	background-size: 50%;
+	color:#FFFFFF;
+}
+
+.btn btn-primary btn-lg{
+	background-color:grren;
+}
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+	  background-color:grey;
+	  color:red;
+    }
+    
+    
+    footer {
+	  background-color:#292626;
+	  
+	  color:white;
+	  margin-top:80px;
+	  margin-bottom:20px;
+	 
+	}
+	a {
+  background-color:black;
+  color:white;
+  text-shadow:none;
+}
+
+a:hover {
+  background-color:none;
+}
+	a:visited {
+    text-decoration: underline;
+  }
+a href{
+	background-color:transparent;
+}
+
+
+
+h2{
+    margin-bottom: 40px;
+}
+label {
+    color: #333;
+}
+.form-control {
+    margin-bottom: 20px;
+}
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+.dropdown-toggle{
+	font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+#banner{
+	width:100%;
+	
+}
+
+#me {
+ 	
+	position:relative;
+	top:0px;
+	text-align:right;
+	border-radius: 50%;
+	margin-left:400px;
+	
+	left:370px
+}
+/* CSS Document */
+
